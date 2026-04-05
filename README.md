@@ -13,4 +13,5 @@ A personal portfolio website built using HTML and CSS.
 - CSS3 (Flexbox, Grid, Animations, Media Queries)
 
 ## Live Site
-https://sumadhur66-dev.github.io/portfolio
+https://sumadhur66-dev.github.io/portfolio.github.io
+
